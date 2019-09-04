@@ -1,5 +1,11 @@
 # ToiseBalanceApk
 
-![solarized palette](https://github.com/DonGorias229/ToiseBalanceApk/blob/master/screenshot/home.png)
+# Homepage
+![Homepage](https://github.com/DonGorias229/ToiseBalanceApk/blob/master/screenshot/home.png)
 
-img src="https://github.com/DonGorias229/ToiseBalanceApk/blob/master/screenshot/home.png" width="400" height="790">
+#Registration
+![Registration](https://github.com/DonGorias229/ToiseBalanceApk/blob/master/screenshot/inscrire.png)
+
+![Homepage](https://github.com/DonGorias229/ToiseBalanceApk/blob/master/screenshot/connecter.png)
+
+![Homepage](https://github.com/DonGorias229/ToiseBalanceApk/blob/master/screenshot/home.png)
