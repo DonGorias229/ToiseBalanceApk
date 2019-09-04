@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ToiseBalance</string>
+    <string name="poids">Poids</string>
+    <string name="taille">Taille</string>
+    <string name="masculin">Masculin</string>
+    <string name="f_minin">Féminin</string>
+    <string name="d_coonexion">Déconnexion</string>
+    <string name="liste_des_personnes">Liste des personnes</string>
+</resources>

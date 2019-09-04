@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "328265833146",
+    "firebase_url": "https://toisebalance.firebaseio.com",
+    "project_id": "toisebalance",
+    "storage_bucket": "toisebalance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328265833146:android:4d973ce8611ae520",
+        "android_client_info": {
+          "package_name": "com.example.judeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328265833146-6hgoq5okokv3bdf7k4hlajpe2kk9gbl1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.judeapp",
+            "certificate_hash": "c81f864dcb401c71cdd6f16413ce5812d2635673"
+          }
+        },
+        {
+          "client_id": "328265833146-uf6k23tc1mm1tqeveb1kg3bntvsqurf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIhrLq76AlK7_o37b_BY6z8x_CEDQz9RM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328265833146-uf6k23tc1mm1tqeveb1kg3bntvsqurf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
